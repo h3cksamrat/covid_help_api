@@ -4,3 +4,6 @@ npm-debug.log*
 .env
 .npm
 node_modules/
+test.rest
+public_data.json
+api.txt
